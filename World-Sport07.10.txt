@@ -1,0 +1,521 @@
+#EXTM3U
+#EXTINF:-1,StarzPlay Sports
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/229226
+#EXTINF:-1,StarzPlay Crlife 1 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/232441
+#EXTINF:-1,StarzPlay Crlife 2 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/232442
+#EXTINF:-1,NBA TV
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/476
+#EXTINF:-1,Tennis Channel
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/28408
+#EXTINF:-1,Willow Cricket
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/65109
+#EXTINF:-1,World Fishing Network
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/16154
+#EXTINF:-1,Yes Network
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/205816
+#EXTINF:-1,MLB Network HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/239805
+#EXTINF:-1,UFC Fight Pass
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/33788
+#EXTINF:-1,Fight Network
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/205838
+#EXTINF:-1,Fight Box
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/138356
+#EXTINF:-1,WWE Shahid Tv
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/228012
+#EXTINF:-1,WWE Shahid 4K
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237289
+#EXTINF:-1,WWE Netflix+
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237366
+#EXTINF:-1,WWE Network
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242273
+#EXTINF:-1,WWE FRIDAY NIGHT SMACKDOWN
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237479
+#EXTINF:-1,WWE SmackDown 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237480
+#EXTINF:-1,WWE NEXT
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237481
+#EXTINF:-1,WWE RAW
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237482
+#EXTINF:-1,WWE GLOBAL
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237483
+#EXTINF:-1,➤ United Kingdom
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242283
+#EXTINF:-1,UK: Viaplay Sports 1 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242280
+#EXTINF:-1,UK: Viaplay Sports 2 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242281
+#EXTINF:-1,UK: Viaplay Xtra HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242282
+#EXTINF:-1,➤ Germany
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/225628
+#EXTINF:-1,DAZN Bar 1 4K
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/249947
+#EXTINF:-1,DAZN Bar 2 4K
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/249948
+#EXTINF:-1,DE: FC Bayern HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/16509
+#EXTINF:-1,DE: Sport Digital
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242081
+#EXTINF:-1,DE: Sport 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242082
+#EXTINF:-1,DE: Sport 1+
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242083
+#EXTINF:-1,DE: Sport News
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242364
+#EXTINF:-1,DE: Sport Top Event
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242365
+#EXTINF:-1,DE: Sport MIX
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242367
+#EXTINF:-1,DE: Sport Golf
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242368
+#EXTINF:-1,DE: Sport F1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242369
+#EXTINF:-1,DE: Motorvision
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/13977
+#EXTINF:-1,➤ Austria
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/225839
+#EXTINF:-1,AT: ORF Sport
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/121223
+#EXTINF:-1,AT: ORF Sport+ HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/16517
+#EXTINF:-1,➤ Netherlands
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/225761
+#EXTINF:-1,NL: Ziggo Voetbal
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/229637
+#EXTINF:-1,NL: Ziggo Select
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/229636
+#EXTINF:-1,NL: Ziggo Sport Docu HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/76355
+#EXTINF:-1,NL: Ziggo Sport Golf HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/76352
+#EXTINF:-1,NL: Ziggo Sport HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/66852
+#EXTINF:-1,NL: Ziggo Sport Racing HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/76353
+#EXTINF:-1,NL: Ziggo Sport Select HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/76350
+#EXTINF:-1,NL: Ziggo Sport Tennis HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/76354
+#EXTINF:-1,NL: Ziggo Sport Voetbal HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/76351
+#EXTINF:-1,NL: Formula F1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/236419
+#EXTINF:-1,NL: Eurosport 1 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/76363
+#EXTINF:-1,NL: Eurosport 2 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/76364
+#EXTINF:-1,NL: Extreme Sports HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/66801
+#EXTINF:-1,NL: ESPN HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/76357
+#EXTINF:-1,NL: ESPN 2 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/76358
+#EXTINF:-1,NL: ESPN 3 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/76359
+#EXTINF:-1,NL: ESPN 4 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/76360
+#EXTINF:-1,NL: Via Play Sport
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/238828
+#EXTINF:-1,➤ Turkey
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/226044
+#EXTINF:-1,TR: beIN SPORTS 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/235467
+#EXTINF:-1,TR: beIN SPORTS 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/235468
+#EXTINF:-1,TR: beIN SPORTS 3
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/235469
+#EXTINF:-1,TR: beIN SPORTS 4
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/235470
+#EXTINF:-1,TR: beIN SPORTS 5
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/241036
+#EXTINF:-1,TR: beIN SPORTS Haber
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77252
+#EXTINF:-1,TR: beIN SPORTS Max 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237784
+#EXTINF:-1,TR: beIN SPORTS Max 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237783
+#EXTINF:-1,TR: TRT SPOR YILDIZ
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/241045
+#EXTINF:-1,TR: TAY TV
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/241048
+#EXTINF:-1,TR: TJK
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/241049
+#EXTINF:-1,TR: A Spor
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77421
+#EXTINF:-1,TR: Sports TV
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77269
+#EXTINF:-1,TR: TRT Spor
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77274
+#EXTINF:-1,TR: TRT Spor 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77275
+#EXTINF:-1,TR: S Sport 1 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/229667
+#EXTINF:-1,TR: S Sport 2 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237785
+#EXTINF:-1,TR: SporSmart HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77268
+#EXTINF:-1,TR: SporSmart 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77255
+#EXTINF:-1,TR: NBA TV
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77273
+#EXTINF:-1,TR: Eurosport 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77270
+#EXTINF:-1,TR: Eurosport 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77271
+#EXTINF:-1,TR: Tivibu Spor 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77258
+#EXTINF:-1,TR: Tivibu Spor 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77260
+#EXTINF:-1,TR: Tivibu Spor 3
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77262
+#EXTINF:-1,TR: Tivibu Spor 4
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/241035
+#EXTINF:-1,TR: FB TV
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237799
+#EXTINF:-1,TR: GS TV
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237805
+#EXTINF:-1,➤ France
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/225647
+#EXTINF:-1,FR: beIN SPORTS 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/20831
+#EXTINF:-1,FR: beIN SPORTS 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/20832
+#EXTINF:-1,FR: beIN SPORTS 3
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/20833
+#EXTINF:-1,FR: Canal+ Sport
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/20886
+#EXTINF:-1,FR: RMC Sport 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/20851
+#EXTINF:-1,FR: RMC Sport 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/20852
+#EXTINF:-1,FR: Golf+ HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/20955
+#EXTINF:-1,FR: Eurosport 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/43954
+#EXTINF:-1,FR: Eurosport 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/43956
+#EXTINF:-1,FR: Info Sport
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/20959
+#EXTINF:-1,FR: Foot 24
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/20951
+#EXTINF:-1,FR: Automoto HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/20897
+#EXTINF:-1,➤ Belgium
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242858
+#EXTINF:-1,BE: Eleven Sports 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/229673
+#EXTINF:-1,BE: Eleven Sports 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242760
+#EXTINF:-1,BE: Eleven Sports 3
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242761
+#EXTINF:-1,➤ Sweden
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/225864
+#EXTINF:-1,SE: Viasat Sport 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242813
+#EXTINF:-1,SE: Viasat Sport Premium
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/16073
+#EXTINF:-1,SE: Viasat Fotboll
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/16074
+#EXTINF:-1,SE: C More Fotboll
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/16098
+#EXTINF:-1,SE: C More Hockey
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/16099
+#EXTINF:-1,SE: Viasat Sport Golf
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/228534
+#EXTINF:-1,SE: Viasat Sport Vinter
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242817
+#EXTINF:-1,SE: Viasat Motor
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242816
+#EXTINF:-1,SE: TV4 Sportkanalen
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242811
+#EXTINF:-1,SE: TV4 Fotboll
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242818
+#EXTINF:-1,SE: TV4 Sport Live
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242819
+#EXTINF:-1,SE: TV4 Hockey
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242820
+#EXTINF:-1,SE: TV4 Motor
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242854
+#EXTINF:-1,SE: TV4 Live 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242855
+#EXTINF:-1,SE: TV4 Live 3
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242856
+#EXTINF:-1,SE: TV4 Live 4
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242857
+#EXTINF:-1,SE: Eurosport 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/16095
+#EXTINF:-1,➤ Denmark
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/225894
+#EXTINF:-1,DK: TV2 Sport
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/16023
+#EXTINF:-1,DK: TV2 Sport X
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/229817
+#EXTINF:-1,DK: TV3 Sport
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/16024
+#EXTINF:-1,DK: TV3 Sport 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/238868
+#EXTINF:-1,DK: V Sport HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242362
+#EXTINF:-1,DK: V Sport Ultra HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242363
+#EXTINF:-1,DK: Viaplay 01 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/247367
+#EXTINF:-1,DK: Viaplay 02 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/247368
+#EXTINF:-1,DK: Viaplay 03 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/247369
+#EXTINF:-1,DK: Viaplay 04 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/247370
+#EXTINF:-1,➤ Norway
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/226047
+#EXTINF:-1,NO: TV2 Sport Premium
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/229666
+#EXTINF:-1,➤ Switzerland
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/225643
+#EXTINF:-1,SW: Blue Sport 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/39459
+#EXTINF:-1,SW: Blue Sport 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/39461
+#EXTINF:-1,SW: MySports FHD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/39440
+#EXTINF:-1,➤ Poland
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/225872
+#EXTINF:-1,PL: UEFA Champions League 1 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/229591
+#EXTINF:-1,PL: UEFA Champions League 2 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/229592
+#EXTINF:-1,PL: UEFA Champions League 3 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/229593
+#EXTINF:-1,PL: UEFA Champions League 4 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/229594
+#EXTINF:-1,PL: UEFA Champions League 5 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/229595
+#EXTINF:-1,PL: UEFA Champions League 6 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/229596
+#EXTINF:-1,PL: POLSAT SPORT NEWS
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/250389
+#EXTINF:-1,PL: POLSAT SPORT
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/250397
+#EXTINF:-1,PL: CANAL+ SPORT
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/250398
+#EXTINF:-1,PL: CANAL+ SPORT 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/250399
+#EXTINF:-1,PL: CANAL+ SPORT 3
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/250400
+#EXTINF:-1,PL: CANAL+ SPORT 4
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/250401
+#EXTINF:-1,PL: ELEVEN SPORTS 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/250403
+#EXTINF:-1,PL: ELEVEN SPORTS 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/250404
+#EXTINF:-1,PL: ELEVEN SPORTS 3
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/250405
+#EXTINF:-1,PL: ELEVEN SPORTS 4
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/250406
+#EXTINF:-1,PL: SPORTKLUB
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/250408
+#EXTINF:-1,PL: EUROSPORT 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/250409
+#EXTINF:-1,PL: EUROSPORT 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/250410
+#EXTINF:-1,PL: TVP SPORT
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/250411
+#EXTINF:-1,➤ Romania
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/226142
+#EXTINF:-1,RO: Digi Sport 4
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/126083
+#EXTINF:-1,RO: Eurosport 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/112221
+#EXTINF:-1,RO: Extreme Sport
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/112223
+#EXTINF:-1,RO: Telekom Sport 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/31184
+#EXTINF:-1,RO: Telekom Sport 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/31185
+#EXTINF:-1,RO: Telekom Sport 3
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/31186
+#EXTINF:-1,RO: Telekom Sport 4
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/31187
+#EXTINF:-1,RO: Digi Sport 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/126059
+#EXTINF:-1,RO: Digi Sport 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/126060
+#EXTINF:-1,RO: Digi Sport 3
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/126082
+#EXTINF:-1,RO: Eurosport 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/248377
+#EXTINF:-1,RO: Prima Sport 1 
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/248378
+#EXTINF:-1,➤ Italy
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/225691
+#EXTINF:-1,IT: Dazn Zona
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/248444
+#EXTINF:-1,IT: Rai Sport HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/43942
+#EXTINF:-1,IT: Sport Italia
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/14751
+#EXTINF:-1,IT: Super Tennis
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/14757
+#EXTINF:-1,IT: Eurosport 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242248
+#EXTINF:-1,IT: Eurosport 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242249
+#EXTINF:-1,➤ Spain
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/225899
+#EXTINF:-1,beIN SPORTS LaLiga
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/40702
+#EXTINF:-1,beIN SPORTS Espana
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/235539
+#EXTINF:-1,ES: Movistar Plus
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/136051
+#EXTINF:-1,ES: LaLiga Tv Bar
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/135958
+#EXTINF:-1,ES: Movistar LaLiga
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/135959
+#EXTINF:-1,ES: Movistar DAZN 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/135989
+#EXTINF:-1,ES: Movistar DAZN 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/135990
+#EXTINF:-1,ES: Movistar DAZN 3
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/207568
+#EXTINF:-1,ES: Movistar DAZN 4
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/207566
+#EXTINF:-1,ES: DAZN Liga
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/241940
+#EXTINF:-1,ES: DAZN Formula 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/241945
+#EXTINF:-1,ES: Movistar Deportes
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/135980
+#EXTINF:-1,ES: Movistar Deportes 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/135982
+#EXTINF:-1,ES: Movistar Deportes 3
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/135983
+#EXTINF:-1,ES: Movistar Deportes 4
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/135984
+#EXTINF:-1,ES: Movistar Formula 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/135991
+#EXTINF:-1,ES: Movistar LaLiga Multi 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/135960
+#EXTINF:-1,ES: Movistar LaLiga Multi 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/135962
+#EXTINF:-1,ES: Movistar LaLiga Multi 3
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/207550
+#EXTINF:-1,ES: Movistar Golf
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/135992
+#EXTINF:-1,ES: Liga Campeones
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/135970
+#EXTINF:-1,ES: Liga De Campeones 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/135971
+#EXTINF:-1,ES: Liga De Campeones 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/135972
+#EXTINF:-1,ES: Liga De Campeones 3
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/135973
+#EXTINF:-1,ES: Liga De Campeones 4
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/135974
+#EXTINF:-1,ES: Liga Sports Tv
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/241918
+#EXTINF:-1,ES: Real Madrid TV
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/136010
+#EXTINF:-1,ES: Canal Barca TV
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/136011
+#EXTINF:-1,ES: Eurosport 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/136008
+#EXTINF:-1,ES: Eurosport 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/136009
+#EXTINF:-1,ES: Torole
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/241957
+#EXTINF:-1,ES: U-Beat
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/207560
+#EXTINF:-1,ES: Espn Deportes
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/239753
+#EXTINF:-1,ES: Espn Deportes 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/241967
+#EXTINF:-1,ES: Espn Deportes 3
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/241968
+#EXTINF:-1,➤ Portugal
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/225640
+#EXTINF:-1,PT: NBA Tv
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242671
+#EXTINF:-1,PT: Sporting TV HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/224105
+#EXTINF:-1,PT: Sport TV + HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/224078
+#EXTINF:-1,PT: Sport TV 1 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/224080
+#EXTINF:-1,PT: Sport TV 2 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/224082
+#EXTINF:-1,PT: Sport TV 3 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/224084
+#EXTINF:-1,PT: Sport TV 4 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/224086
+#EXTINF:-1,PT: Sport TV 5 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/224088
+#EXTINF:-1,PT: Sport TV 6 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/224090
+#EXTINF:-1,PT: Eleven Sports 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/224093
+#EXTINF:-1,PT: Eleven Sports 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/224095
+#EXTINF:-1,PT: Eleven Sports 3
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/224097
+#EXTINF:-1,PT: Eleven Sports 4
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/224099
+#EXTINF:-1,PT: Eleven Sports 5
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/224101
+#EXTINF:-1,PT: Eleven Sports 6
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/224103
+#EXTINF:-1,PT: Eurosport 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/130966
+#EXTINF:-1,PT: Eurosport 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/130967
+#EXTINF:-1,➤ Canada
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/225846
+#EXTINF:-1,CA: BeIN Sports
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/211456
+#EXTINF:-1,CA: beIN SPORTS Canada
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/235541
+#EXTINF:-1,CA: TSN 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/32046
+#EXTINF:-1,CA: TSN 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/32047
+#EXTINF:-1,CA: TSN 3
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/32048
+#EXTINF:-1,CA: TSN 4
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/32049
+#EXTINF:-1,CA: TSN 5
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/32480
+#EXTINF:-1,➤ United States
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/225774
+#EXTINF:-1,beIN SPORTS XTRA
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/235540
+#EXTINF:-1,US: FOX SPORTS 1 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/235547
+#EXTINF:-1,US: FOX SPORTS 2 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/235548
+#EXTINF:-1,US: NFL Network
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/239477
+#EXTINF:-1,US: NFL Red Zone
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/239478
+#EXTINF:-1,US: FOX Soccer Plus HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/239692
+#EXTINF:-1,US: Bein Sports HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/239730
+#EXTINF:-1,US: Espn 1 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/239749
+#EXTINF:-1,US: Espn 2 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/239750
+#EXTINF:-1,US: Golf Channel
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/239766
+#EXTINF:-1,US: NHL Network
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/239804
+#EXTINF:-1,US: CBS Sports Network
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/239811
+#EXTINF:-1,US: MotorTrend
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/239814
+#EXTINF:-1,US: STADIUM
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/239817
+#EXTINF:-1,US: Billiard TV
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/239829
